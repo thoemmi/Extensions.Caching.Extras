@@ -1,6 +1,7 @@
 using System;
 using Extensions.Caching.Extras;
 
+// ReSharper disable once CheckNamespace
 namespace Microsoft.Extensions.Caching.Memory
 {
     /// <summary>
